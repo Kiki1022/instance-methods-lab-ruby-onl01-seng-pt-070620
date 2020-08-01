@@ -1,4 +1,19 @@
-
+class Person
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+end
 
 
 
