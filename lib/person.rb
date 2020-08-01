@@ -6,7 +6,7 @@ def talk
 end
   
  def walk
-   pus "The Person is walking"
+   puts "The Person is walking"
  end
   
   
